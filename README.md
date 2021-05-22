@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nasan01 (Avonasandratra Faustin RAMAROSON)
 - 👀 I’m interested in web/mobile development
-- 🌱 I’m currently learning a lot of things to became better
 - 💞️ I’m looking to collaborate on project
 - 📫 to reach me ... send an email in avonasandratra2003@gmail.com
 
