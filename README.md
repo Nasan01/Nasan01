@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: -  About Me:
-- :telescope: I'm a Junior Developer
+- :telescope: I'm a Developer
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nasan01-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/avonasandratra-ramaroson-a38a05200) 
 
 ---
@@ -26,7 +26,6 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
